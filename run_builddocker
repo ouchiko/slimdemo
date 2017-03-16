@@ -1,0 +1,4 @@
+#!/bin/bash
+#docker stop test-app
+#docker rm test-app
+docker build -t test-app .
